@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencecrypt",
+        "uuid": 30209368,
+        "checksum": "nuvr76"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
